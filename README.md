@@ -5,8 +5,8 @@
     <a href="" style="text-decoration: none;">
         <img 
             alt="𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99" 
-            width="900" 
-            height="600" 
+            width="700" 
+            height="400" 
             src="https://qu.ax/xqGSr.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"

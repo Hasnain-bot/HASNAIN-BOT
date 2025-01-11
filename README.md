@@ -45,20 +45,7 @@
    
 ## ✅ 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 ✅
 
-### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 1️⃣
-[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://princesession-653c5b876049.herokuapp.com)
 
-### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 2️⃣
-[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=heroku&logoColor=white)](https://sessionp-ffd02587aaea.herokuapp.com)
-
-### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 3️⃣
-[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=heroku&logoColor=yellow)](https://dead-christel-secktor-f9b56895.koyeb.app/)
-
-### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 4️⃣
-[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-yellow?style=for-the-badge&logo=heroku&logoColor=yellow)](https://princesesionn.onrender.com)
-
-### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 5️⃣
-[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-E6E6FA?style=for-the-badge&logo=heroku&logoColor=yellow)](https://shortsession.onrender.com)
 
 <br>
 <br>

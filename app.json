@@ -1,0 +1,101 @@
+{
+  "name": "𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99",
+  "description": "whatsapp user bot",
+  "repository": "https://github.com/Hasnain-bot/HASNAIN-BOT.git",
+  "logo": "https://qu.ax/xbxrc.jpg",
+  "success_url": "https://github.com/Hasnain-bot/HASNAIN-BOT.git",
+  "keywords": [
+    "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
+  ],
+  "image": "heroku/nodejs",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "put your session ID here in the box below",
+      "required": true,
+      "value": ""
+    },
+    "BOT_NAME": {
+      "description": "put your BOT a name",
+      "required": true,
+      "value": "𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99-BOT"
+    },
+    "OWNER_NUMBER": {
+      "description": "put your Number and name for Owner",
+      "required": true,
+      "value": "923180434543,𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99"
+    },
+    "MODE": {
+      "description": "choose bot mode public or private",
+      "required": true,
+      "value": "public"
+    },
+    "PREFIX": {
+      "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
+      "required": false,
+      "value": "" 
+    },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": true,
+      "value": "false"
+    },
+    "DATABASE_URL": {
+      "description": "put mongodb or postgres or princedb database url for bots better performance",
+      "required": false,
+      "value": ""
+    },
+    "ANTI_LINK": {
+      "description": "it will dlt links and kick user",
+      "required": true,
+      "value": "false"
+    },
+    "AutoReaction": {
+      "description": "make it true to react on chats",
+      "required": false,
+      "value": "false"
+    },
+    "STATUSVIEW": {
+      "description": "make it true to auto view status and likes",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_MSG": {
+      "description": "Status reply msg",
+      "required": false,
+      "value": "Your Status has been seen by 𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99 bot"
+    },
+    "REJECTSCALLS": {
+      "description": "reject calls",
+      "required": true,
+      "value": "true"
+    },
+    "ANTIFAKE_USERS": {
+      "description": "add antifake numbers bot wont let them to join group for all numbers 1,2,3,4,5,6,7,8,9 like this",
+      "required": false,
+      "value": "1,212,63,44"
+    },
+    "PACK_NAME": {
+      "description": "put your stickers pack name",
+      "required": false,
+      "value": "𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99"
+    },
+    "DL_MSG": {
+      "description": "Video downloader caption",
+      "required": true,
+      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
+    } 
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
+}

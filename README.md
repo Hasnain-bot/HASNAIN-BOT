@@ -38,12 +38,12 @@
 
 <div align="left">
     
-   ## 🟢🟣🔵 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀📳
+   ##  😜𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀😜
    <br>
     <br>
 </div>
    
-## 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
+## ✅ 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 ✅
 
 ### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 1️⃣
 [![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://princesession-653c5b876049.herokuapp.com)
@@ -64,22 +64,8 @@
 <br>
 
 <br>
-       
- ### 🔵 𝙇𝙊𝙉𝙂 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙋𝘼𝙉𝙀𝙇𝙎
-   
-</div>
-   
-<div align="left">
-    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚1️⃣</h3>
-    <a href="https://prince-new-base64-pair.onrender.com">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
-    </a>
-    <br>
-    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚2️⃣</h3>
-    <a href="https://prince-session-base64.onrender.com">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render">
-    </a>
-</div>
+
+
 
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -94,32 +80,9 @@
     <a href="https://gd-sdeploy.vercel.app/">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://repl.it/github/DASTAGHIR/PRINCEMD">
-        <img height="30" title="Replit" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit">
-    </a>
-    <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDASTAGHIR%2FPRINCEMD">
-        <img height="30" title="Render" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render">
-    </a>
-</div>
-
-<div align="center">
     
-## 𝙍𝙐𝙉 𝙊𝙉 𝙆𝙊𝙔𝙀𝘽
-### 𝘊𝘭𝘪𝘤𝘬 𝘰𝘯 𝘵𝘩𝘪𝘴 𝘣𝘶𝘵𝘵𝘰𝘯, 𝘤𝘩𝘢𝘯𝘨𝘦 𝘵𝘩𝘦 𝘉𝘶𝘪𝘭𝘥𝘱𝘢𝘤𝘬 𝘵𝘰 𝘋𝘰𝘤𝘬𝘦𝘳𝘧𝘪𝘭𝘦, 𝘧𝘪𝘭𝘭 𝘪𝘯 𝘵𝘩𝘦 𝘷𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴, 𝘤𝘭𝘪𝘤𝘬 𝘋𝘦𝘱𝘭𝘰𝘺, 𝘢𝘯𝘥 𝘸𝘢𝘪𝘵. 𝘌𝘯𝘫𝘰𝘺 𝘵𝘩𝘦 𝘣𝘰𝘵!
-
-
-<div align="center">
-    <p align="center">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=PRINCE-MD&env[OWNER_NUMBER]=9230926680000%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[DATABASE_URL]=&env[ANTI_LINK]=false&env[AutoReaction]=false&env[STATUSVIEW]=false&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[REJECTSCALLS]=true&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[PACK_NAME]=Princebot%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_">
-            <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
-        </a>
-    </p>
 </div>
 
-## 💻𝘿𝙀𝙋𝙇𝙊𝙔 𝙊𝙉 𝙏𝘼𝙇𝙆 𝘿𝙍𝙊𝙑𝙀 𝙁𝙊𝙍 𝙁𝙍𝙀𝙀
-[![TALK DROVE](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=0BEA2CA9)
-
-<br>
 
 <div align="center">
 

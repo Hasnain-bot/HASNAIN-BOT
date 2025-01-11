@@ -1,4 +1,4 @@
-# [𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**ASSALAMUALAIKUM**+❣️+**EVERYONE**+👋🏻;😍+**WELCOME+TO+𓆩ꜛ𝑯𝑨𝑺𝑵𝑨𝑰𝑵؜𓆪〆𝗛𝗔𝗖𝗞𝗘𝗥99+MD+BOT**+💙;🔥+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;💡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;✨+**LET'S+GET+STARTED!**)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">

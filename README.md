@@ -65,7 +65,7 @@
 </div>
 <div align="center">
     <a href="https://gd-sdeploy.vercel.app/">
-        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
+        <https://heroku.com/deploy?template=https:/Hasnain-bot/github.com//SESSION-GENERATOR>
     </a>
     
 </div>
